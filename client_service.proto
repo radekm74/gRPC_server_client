@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+package client_service;
+
+service ClientService {
+  // RPC to send a message ("Hello" or "Goodbye") for a user
+  rpc SendMessage (MessageRequest) returns (MessageResponse);
+
+  // RPC to get the connection status of clients
+  rpc GetClientStatus (ClientStatusRequest) returns (ClientStatusResponse);
+}
+
+// Request to send a message
+message MessageRequest {
+  string client_id = 1; // ID of the client
+  string message = 2;   // Message type: "Hello" or "Goodbye"
+}
+
+// Response for sending a message
+message MessageResponse {
+  bool success = 1;     // Whether the message was processed successfully
+  string info = 2;      // Additional information or error messages
+}
+
+// Request to get client status
+message ClientStatusRequest {
+  string client_id = 1; // ID of the client (optional, empty for all clients)
+}
+
+// Response for client status
+message ClientStatusResponse {
+  map<string, string> statuses = 1; // Map of client_id to connection status
+}

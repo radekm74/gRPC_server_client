@@ -1,0 +1,5 @@
+2025-01-26 20:16:54 [32mINFO[0m Server is starting on port 50051.
+2025-01-26 20:16:54 [32mINFO[0m Client ID: test_user_1, Status: connected
+2025-01-26 20:16:54 [32mINFO[0m Client ID: test_user_2, Status: disconnected
+2025-01-26 20:16:54 [32mINFO[0m Client ID: test_user_3, Status: connected
+2025-01-26 20:16:54 [32mINFO[0m Server down.

@@ -1,0 +1,22 @@
+2025-01-26 20:16:55 [32mINFO[0m Sending command: 1
+2025-01-26 20:16:55 [32mINFO[0m Client output: Options:
+2025-01-26 20:16:55 [32mINFO[0m Client output: 1. Send Message
+2025-01-26 20:16:55 [32mINFO[0m Client output: 2. Get Client Status
+2025-01-26 20:16:55 [32mINFO[0m Client output: 3. Exit
+2025-01-26 20:16:55 [32mINFO[0m Client output: Select an option:
+2025-01-26 20:16:56 [32mINFO[0m Sending command: user1
+2025-01-26 20:16:56 [32mINFO[0m Sending command: Hello
+2025-01-26 20:16:56 [32mINFO[0m Client output: Enter client ID: Enter message (Hello/Goodbye): Server Response: Client user1 marked as connected.
+2025-01-26 20:16:56 [32mINFO[0m Client output: Options:
+2025-01-26 20:16:56 [32mINFO[0m Client output: 1. Send Message
+2025-01-26 20:16:56 [32mINFO[0m Client output: 2. Get Client Status
+2025-01-26 20:16:56 [32mINFO[0m Client output: 3. Exit
+2025-01-26 20:16:57 [32mINFO[0m Sending command: 2
+2025-01-26 20:16:57 [32mINFO[0m Client output: Select an option:
+2025-01-26 20:16:57 [32mINFO[0m Sending command: 
+2025-01-26 20:16:57 [32mINFO[0m Client output: Enter client ID (leave empty for all clients): Client ID: user1, Status: connected
+2025-01-26 20:16:57 [32mINFO[0m Client output: Options:
+2025-01-26 20:16:57 [32mINFO[0m Client output: 1. Send Message
+2025-01-26 20:16:57 [32mINFO[0m Client output: 2. Get Client Status
+2025-01-26 20:16:57 [32mINFO[0m Client output: 3. Exit
+2025-01-26 20:16:58 [32mINFO[0m Client output: Select an option:

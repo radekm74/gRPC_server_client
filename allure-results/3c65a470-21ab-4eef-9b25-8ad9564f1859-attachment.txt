@@ -1,0 +1,12 @@
+2025-01-26 20:16:54 [32mINFO[0m Server is starting on port 50051.
+2025-01-26 20:16:54 [32mINFO[0m Client user_3 received: Client user_3 marked as disconnected.
+2025-01-26 20:16:54 [32mINFO[0m Client user_2 received: Client user_2 marked as connected.
+2025-01-26 20:16:54 [32mINFO[0m Client user_1 received: Client user_1 marked as connected.
+2025-01-26 20:16:54 [32mINFO[0m Client user_4 received: Client user_4 marked as connected.
+2025-01-26 20:16:54 [32mINFO[0m Client user_5 received: Client user_5 marked as disconnected.
+2025-01-26 20:16:54 [32mINFO[0m Client user_6 received: Client user_6 marked as disconnected.
+2025-01-26 20:16:54 [32mINFO[0m Client user_2 received: Client user_2 marked as disconnected.
+2025-01-26 20:16:54 [32mINFO[0m Client user_5 received: Client user_5 marked as connected.
+2025-01-26 20:16:54 [32mINFO[0m Client user_6 received: Client user_6 marked as connected.
+2025-01-26 20:16:54 [32mINFO[0m Client user_6 received: Client user_6 marked as disconnected.
+2025-01-26 20:16:54 [32mINFO[0m Server down.

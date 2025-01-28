@@ -1,0 +1,37 @@
+2025-01-26 20:16:59 [32mINFO[0m Client output: Options:
+2025-01-26 20:16:59 [32mINFO[0m Sending command: 1
+2025-01-26 20:16:59 [32mINFO[0m Server output: Server is starting on port 50051.
+2025-01-26 20:16:59 [32mINFO[0m Client output: 1. Send Message
+2025-01-26 20:16:59 [32mINFO[0m Client output: 2. Get Client Status
+2025-01-26 20:16:59 [32mINFO[0m Client output: 3. Exit
+2025-01-26 20:16:59 [32mINFO[0m Client output: Select an option:
+2025-01-26 20:16:59 [32mINFO[0m Sending command: user1
+2025-01-26 20:17:00 [32mINFO[0m Sending command: Hello
+2025-01-26 20:17:00 [32mINFO[0m Client output: Enter client ID: Enter message (Hello/Goodbye): Server Response: Client user1 marked as connected.
+2025-01-26 20:17:00 [32mINFO[0m Client output: Options:
+2025-01-26 20:17:00 [32mINFO[0m Client output: 1. Send Message
+2025-01-26 20:17:00 [32mINFO[0m Client output: 2. Get Client Status
+2025-01-26 20:17:00 [32mINFO[0m Client output: 3. Exit
+2025-01-26 20:17:00 [32mINFO[0m Checking if user1 is marked as connected.
+2025-01-26 20:17:00 [32mINFO[0m Sending command: 1
+2025-01-26 20:17:00 [32mINFO[0m Client output: Select an option:
+2025-01-26 20:17:01 [32mINFO[0m Sending command: user1
+2025-01-26 20:17:01 [32mINFO[0m Sending command: Hurrah
+2025-01-26 20:17:01 [32mINFO[0m Server output: Warning: Invalid message type: Hurrah
+2025-01-26 20:17:01 [32mINFO[0m Client output: Enter client ID: Enter message (Hello/Goodbye): Invalid argument error: Invalid message type: Hurrah
+2025-01-26 20:17:01 [32mINFO[0m Client output: Options:
+2025-01-26 20:17:01 [32mINFO[0m Client output: 1. Send Message
+2025-01-26 20:17:01 [32mINFO[0m Client output: 2. Get Client Status
+2025-01-26 20:17:01 [32mINFO[0m Client output: 3. Exit
+2025-01-26 20:17:02 [32mINFO[0m Checking invalid command.
+2025-01-26 20:17:02 [32mINFO[0m Sending command: 1
+2025-01-26 20:17:02 [32mINFO[0m Client output: Select an option:
+2025-01-26 20:17:02 [32mINFO[0m Sending command: user1
+2025-01-26 20:17:03 [32mINFO[0m Sending command: Goodbye
+2025-01-26 20:17:03 [32mINFO[0m Client output: Enter client ID: Enter message (Hello/Goodbye): Server Response: Client user1 marked as disconnected.
+2025-01-26 20:17:03 [32mINFO[0m Client output: Options:
+2025-01-26 20:17:03 [32mINFO[0m Client output: 1. Send Message
+2025-01-26 20:17:03 [32mINFO[0m Client output: 2. Get Client Status
+2025-01-26 20:17:03 [32mINFO[0m Client output: 3. Exit
+2025-01-26 20:17:03 [32mINFO[0m Checking if user1 is marked as disconnected.
+2025-01-26 20:17:03 [32mINFO[0m Client output: Select an option:

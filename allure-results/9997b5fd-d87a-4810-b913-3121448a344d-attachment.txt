@@ -1,0 +1,4 @@
+2025-01-26 20:16:54 [32mINFO[0m Server is starting on port 50051.
+2025-01-26 20:16:54 [32mINFO[0m Test if user is disconnected when Goodbye message is sent for user: User_001
+2025-01-26 20:16:54 [32mINFO[0m Client User_001 received: Client User_001 marked as disconnected.
+2025-01-26 20:16:54 [32mINFO[0m Server down.
